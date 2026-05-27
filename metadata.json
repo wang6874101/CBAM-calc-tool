@@ -1,0 +1,6 @@
+{
+  "name": "CBAM碳价抵扣与行业传导推演工具",
+  "description": "基于欧盟2026年最新CBAM碳价实施条例草案开发的交互式抵扣推演与六大行业成本传导测算工具，包含四步走合规分析与动态成本模型。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
